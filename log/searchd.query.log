@@ -1,0 +1,58 @@
+[Wed Jul 14 12:09:09.831 2010] 0.000 sec [all/2/rel 1 (0,20)] [user_core] tushar
+[Wed Jul 14 12:10:25.548 2010] 0.000 sec [scan/2/rel 0 (0,20)] [user_core]
+[Wed Jul 14 12:10:33.542 2010] 0.000 sec [all/2/rel 0 (0,20)] [user_core] aditi
+[Wed Jul 14 12:11:04.630 2010] 0.000 sec [all/2/rel 0 (0,20)] [user_core] aditi
+[Wed Jul 14 12:24:09.816 2010] 0.000 sec [all/1/rel 1 (0,20)] [*] tushar
+[Wed Jul 14 12:24:22.971 2010] 0.000 sec [all/1/rel 0 (0,20)] [*] aditi
+[Wed Jul 14 12:47:43.663 2010] 0.001 sec [all/1/rel 1 (0,20)] [*] aditi
+[Wed Jul 14 13:02:08.666 2010] 0.000 sec [all/1/rel 1 (0,20)] [*] tushar
+[Wed Jul 14 13:02:30.878 2010] 0.000 sec [all/1/rel 1 (0,20)] [*] tushar
+[Wed Jul 14 14:41:11.795 2010] 0.000 sec [all/1/rel 1 (0,20)] [*] test
+[Wed Jul 14 14:42:44.414 2010] 0.001 sec [all/1/rel 1 (0,20)] [*] test
+[Wed Jul 14 14:43:30.428 2010] 0.001 sec [all/1/rel 1 (0,20)] [*] test
+[Wed Jul 14 14:44:27.303 2010] 0.000 sec [all/2/rel 0 (0,20)] [user_core] test
+[Wed Jul 14 14:44:35.123 2010] 0.000 sec [all/2/rel 1 (0,20)] [user_core] tushar
+[Wed Jul 14 14:46:32.147 2010] 0.000 sec [all/2/rel 1 (0,20)] [article_core] Hello
+[Wed Jul 14 14:46:36.901 2010] 0.000 sec [all/2/rel 0 (0,20)] [article_core] Hello1
+[Wed Jul 14 14:46:46.962 2010] 0.000 sec [all/2/rel 1 (0,20)] [article_core] My Test
+[Wed Jul 14 14:46:59.673 2010] 0.000 sec [scan/2/rel 1 (0,20)] [article_core]
+[Wed Jul 14 14:46:59.722 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 14:47:05.497 2010] 0.000 sec [all/2/rel 0 (0,20)] [article_core] My Test
+[Wed Jul 14 14:47:29.753 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 14:47:41.270 2010] 0.000 sec [all/2/rel 0 (0,20)] [article_core] Tushar Gandhi
+[Wed Jul 14 14:48:16.386 2010] 0.000 sec [all/2/rel 1 (0,20)] [article_core] Tushar Gandhi
+[Wed Jul 14 15:31:05.386 2010] 0.000 sec [all/2/rel 1 (0,20)] [article_core] Tushar Gandhi
+[Wed Jul 14 17:47:16.319 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 17:47:16.322 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_delta]
+[Wed Jul 14 17:47:16.359 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 17:47:31.628 2010] 0.000 sec [all/2/rel 1 (0,20)] [article_core,article_delta] Neovasolution
+[Wed Jul 14 17:47:43.314 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] Tushar Gandhi
+[Wed Jul 14 17:48:29.484 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 17:48:29.488 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_delta]
+[Wed Jul 14 17:48:29.519 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 17:48:35.604 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] india
+[Wed Jul 14 18:57:08.811 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] Neovasolution
+[Wed Jul 14 18:57:26.333 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 18:57:26.337 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_delta]
+[Wed Jul 14 18:57:26.370 2010] 0.000 sec [scan/2/rel 0 (0,20)] [article_core]
+[Wed Jul 14 18:57:33.127 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] Rails
+[Thu Jul 15 17:19:44.869 2010] 0.013 sec [all/2/rel 0 (0,20)] [user_core] @
+[Thu Jul 15 17:19:57.405 2010] 0.032 sec [all/2/rel 1 (0,20)] [user_core] aditi
+[Thu Jul 15 17:20:15.912 2010] 0.007 sec [all/2/rel 3 (0,20)] [article_core,article_delta] is
+[Fri Jul 16 12:05:18.085 2010] 0.027 sec [all/2/rel 2 (0,20)] [user_core] com
+[Fri Jul 16 12:06:32.943 2010] 0.016 sec [ext/2/rel 1 (0,20)] [user_core] com @last_name dhus
+[Fri Jul 16 12:11:44.919 2010] 0.001 sec [all/2/rel 3 (0,20)] [article_core,article_delta] is
+[Fri Jul 16 12:46:59.695 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] Tushar Gandhi
+[Fri Jul 16 15:20:38.715 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] rails
+[Mon Aug  2 19:45:44.585 2010] 0.009 sec [all/1/rel 1 (0,20)] [*] pune
+[Mon Aug  2 19:45:52.461 2010] 0.001 sec [all/1/rel 1 (0,20)] [*] pune
+[Mon Aug  2 19:54:17.767 2010] 0.001 sec [all/2/rel 1 (0,20)] [article_core,article_delta] pune
+[Tue Aug 10 10:41:24.557 2010] 0.008 sec [all/2/rel 1 (0,20)] [user_core] tushar
+[Tue Aug 10 10:42:18.067 2010] 0.000 sec [all/2/attr+ 1 (0,20)] [user_core] tushar
+[Tue Aug 10 10:42:31.458 2010] 0.000 sec [scan/2/attr+ 2 (0,20)] [user_core]
+[Tue Aug 10 10:43:12.068 2010] 0.000 sec [scan/2/attr+ 2 (0,20)] [user_core]
+[Tue Aug 10 10:43:16.869 2010] 0.000 sec [scan/2/attr+ 2 (0,20)] [user_core]
+[Tue Aug 10 10:57:10.908 2010] 0.000 sec [scan/2/rel 3 (0,20)] [user_core]
+[Tue Aug 10 10:57:24.723 2010] 0.000 sec [scan/2/attr+ 3 (0,20)] [user_core]
+[Tue Aug 10 10:58:32.382 2010] 0.000 sec [scan/2/attr+ 3 (0,20)] [user_core]
+[Tue Aug 10 11:05:35.154 2010] 0.000 sec [scan/2/attr+ 3 (0,20)] [user_core]

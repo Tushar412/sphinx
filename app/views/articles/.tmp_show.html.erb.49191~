@@ -1,0 +1,22 @@
+<%= javascript_include_tag :defaults %>
+  <%= ajaxful_rating_style %>
+  
+<p>
+	<%@user=User.find(1)
+p @user
+p @article%>
+  Global Avg: <%= ratings_for @article,@user, :dimension => :speed %>
+</p>
+<p>
+  <b>Name:</b>
+  <%=h @article.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @article.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_article_path(@article) %> |
+<%= link_to 'Back', articles_path %>

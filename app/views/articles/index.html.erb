@@ -1,0 +1,28 @@
+<h1>Listing articles</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+
+<% @articles.each do |article| %>
+  <tr>
+    <td><%=h article.name %></td>
+    <td><%=h article.description %></td>
+    <td><%= link_to 'Show', article %></td>
+    <td><%= link_to 'Edit', edit_article_path(article) %></td>
+    <td><%= link_to 'Destroy', article, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+<% form_tag asearch_path, :method => :get do %>
+		<div>
+			<input class="input-text" name="search" type="text" value="Search" title="Search" onblur="if(this.value==''){this.value=this.title;}" onfocus="if(this.value==this.title){this.value='';}" />
+			<input type="submit" value="search"/>
+		</div>
+<% end %>
+
+<%= link_to 'New article', new_article_path %>

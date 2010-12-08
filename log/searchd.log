@@ -1,0 +1,75 @@
+[Wed Jul 14 11:59:41.309 2010] [ 4892] accepting connections
+[Wed Jul 14 12:00:03.676 2010] [ 4892] rotating indices (seamless=1)
+[Wed Jul 14 12:00:03.681 2010] [ 4892] WARNING: rotating index 'user_core': cur to old rename failed: rename /home/Projects/sphinx_demo/db/sphinx/development/user_core.spa to /home/Projects/sphinx_demo/db/sphinx/development/user_core.old.spa failed: No such file or directory
+[Wed Jul 14 12:00:03.681 2010] [ 4892] rotating finished
+[Wed Jul 14 12:07:39.127 2010] [ 4892] rotating indices (seamless=1)
+[Wed Jul 14 12:07:40.131 2010] [ 4892] WARNING: rotating index 'user_core': cur to old rename failed: rename /home/Projects/sphinx_demo/db/sphinx/development/user_core.spa to /home/Projects/sphinx_demo/db/sphinx/development/user_core.old.spa failed: No such file or directory
+[Wed Jul 14 12:07:40.132 2010] [ 4892] rotating finished
+[Wed Jul 14 12:08:23.334 2010] [ 4892] caught SIGTERM, shutting down
+[Wed Jul 14 12:08:23.334 2010] [ 4892] shutdown complete
+[Wed Jul 14 12:08:30.100 2010] [ 4965] accepting connections
+[Wed Jul 14 12:12:34.624 2010] [ 4965] caught SIGTERM, shutting down
+[Wed Jul 14 12:12:34.624 2010] [ 4965] shutdown complete
+[Wed Jul 14 12:13:03.509 2010] [ 5049] accepting connections
+[Wed Jul 14 12:46:32.684 2010] [ 5049] caught SIGTERM, shutting down
+[Wed Jul 14 12:46:32.685 2010] [ 5049] shutdown complete
+[Wed Jul 14 12:47:15.314 2010] [ 5371] accepting connections
+[Wed Jul 14 14:39:51.339 2010] [ 5371] caught SIGTERM, shutting down
+[Wed Jul 14 14:39:51.339 2010] [ 5371] shutdown complete
+[Wed Jul 14 14:40:16.904 2010] [ 5861] accepting connections
+[Wed Jul 14 14:47:54.417 2010] [ 5861] caught SIGTERM, shutting down
+[Wed Jul 14 14:47:54.417 2010] [ 5861] shutdown complete
+[Wed Jul 14 14:48:11.295 2010] [ 6048] accepting connections
+[Wed Jul 14 17:46:14.217 2010] [ 6048] caught SIGTERM, shutting down
+[Wed Jul 14 17:46:14.218 2010] [ 6048] shutdown complete
+[Wed Jul 14 17:46:47.263 2010] [ 6440] accepting connections
+[Wed Jul 14 17:47:16.356 2010] [ 6440] rotating indices (seamless=1)
+[Wed Jul 14 17:47:16.361 2010] [ 6440] rotating index 'article_delta': success
+[Wed Jul 14 17:47:16.361 2010] [ 6440] rotating finished
+[Wed Jul 14 17:48:29.514 2010] [ 6440] rotating indices (seamless=1)
+[Wed Jul 14 17:48:29.522 2010] [ 6440] rotating index 'article_delta': success
+[Wed Jul 14 17:48:29.522 2010] [ 6440] rotating finished
+[Wed Jul 14 18:57:26.362 2010] [ 6440] rotating indices (seamless=1)
+[Wed Jul 14 18:57:26.369 2010] [ 6440] rotating index 'article_delta': success
+[Wed Jul 14 18:57:26.369 2010] [ 6440] rotating finished
+[Wed Jul 14 19:43:02.025 2010] [ 6440] caught SIGTERM, shutting down
+[Wed Jul 14 19:43:02.025 2010] [ 6440] shutdown complete
+[Thu Jul 15 17:19:39.236 2010] [ 6261] accepting connections
+[Thu Jul 15 17:51:29.239 2010] [ 6261] caught SIGTERM, shutting down
+[Thu Jul 15 17:51:29.239 2010] [ 6261] shutdown complete
+[Fri Jul 16 12:04:33.208 2010] [ 3227] accepting connections
+[Fri Jul 16 12:08:22.547 2010] [ 3227] caught SIGTERM, shutting down
+[Fri Jul 16 12:08:22.547 2010] [ 3227] shutdown complete
+[Fri Jul 16 12:08:41.123 2010] [ 3454] accepting connections
+[Fri Jul 16 12:09:23.941 2010] [ 3454] caught SIGTERM, shutting down
+[Fri Jul 16 12:09:23.942 2010] [ 3454] shutdown complete
+[Fri Jul 16 12:09:37.446 2010] [ 3481] accepting connections
+[Fri Jul 16 12:10:15.308 2010] [ 3481] caught SIGTERM, shutting down
+[Fri Jul 16 12:10:15.309 2010] [ 3481] shutdown complete
+[Fri Jul 16 12:10:50.852 2010] [ 3517] accepting connections
+[Fri Jul 16 12:45:54.485 2010] [ 3517] caught SIGTERM, shutting down
+[Fri Jul 16 12:45:54.485 2010] [ 3517] shutdown complete
+[Fri Jul 16 12:46:13.838 2010] [ 3784] accepting connections
+[Fri Jul 16 13:01:47.830 2010] [ 3784] caught SIGTERM, shutting down
+[Fri Jul 16 13:01:47.831 2010] [ 3784] shutdown complete
+[Fri Jul 16 15:20:14.081 2010] [ 4885] accepting connections
+[Fri Jul 16 15:23:19.162 2010] [ 4885] caught SIGTERM, shutting down
+[Fri Jul 16 15:23:19.163 2010] [ 4885] shutdown complete
+[Mon Aug  2 19:43:15.594 2010] [ 6182] accepting connections
+[Mon Aug  2 19:44:57.739 2010] [ 6182] caught SIGTERM, shutting down
+[Mon Aug  2 19:44:57.740 2010] [ 6182] shutdown complete
+[Mon Aug  2 19:45:06.241 2010] [ 6219] accepting connections
+[Mon Aug  2 19:58:57.723 2010] [ 6219] caught SIGTERM, shutting down
+[Mon Aug  2 19:58:57.724 2010] [ 6219] shutdown complete
+[Tue Aug 10 10:41:05.003 2010] [ 3096] accepting connections
+[Tue Aug 10 10:53:58.632 2010] [ 3096] caught SIGTERM, shutting down
+[Tue Aug 10 10:53:58.632 2010] [ 3096] shutdown complete
+[Tue Aug 10 10:56:47.662 2010] [ 3318] accepting connections
+[Tue Aug 10 10:58:06.131 2010] [ 3318] caught SIGTERM, shutting down
+[Tue Aug 10 10:58:06.132 2010] [ 3318] shutdown complete
+[Tue Aug 10 10:58:06.220 2010] [ 3347] accepting connections
+[Tue Aug 10 11:05:01.853 2010] [ 3347] caught SIGTERM, shutting down
+[Tue Aug 10 11:05:01.853 2010] [ 3347] shutdown complete
+[Tue Aug 10 11:05:01.951 2010] [ 3394] accepting connections
+[Tue Aug 10 16:09:50.760 2010] [ 3394] caught SIGTERM, shutting down
+[Tue Aug 10 16:09:50.842 2010] [ 3394] shutdown complete
